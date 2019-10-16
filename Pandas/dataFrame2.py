@@ -12,7 +12,7 @@ daeshin_day = DataFrame(daeshin, columns=['open', 'high', 'low', 'close'], index
 ##close = daeshin_day['close']
 ##print(close)
 
-## 아래와 같이 사용 X
+## 아래와 같이 사용X
 ##print(daeshin_day['16.02.24'])
 
 ##DataFrame 객체의 로우에 접근하려면 loc메서드를 사용하여 인덱스 값 세팅
